@@ -1312,12 +1312,6 @@ pre code {
 .links-of-author a {
   font-size: 0.8125em;
 }
-.links-of-author .fa,
-.links-of-author .fab,
-.links-of-author .far,
-.links-of-author .fas {
-  margin-right: 2px;
-}
 .sidebar .sidebar-button:not(:first-child) {
   margin-top: 15px;
 }
@@ -1573,7 +1567,7 @@ pre code {
 }
 .languages {
   display: inline-block;
-  font-size: 1.125em;
+  font-size: 1em;
   position: relative;
 }
 .languages .lang-select-label span {
@@ -1741,7 +1735,7 @@ pre code {
   }
 }
 .posts-collapse .post-content .collection-title {
-  font-size: 1.125em;
+  font-size: 1em;
   position: relative;
 }
 .posts-collapse .post-content .collection-title::before {
@@ -1837,7 +1831,7 @@ pre code {
 }
 @media (min-width: 1200px) {
   .post-body {
-    font-size: 1.125em;
+    font-size: 1em;
   }
 }
 @media (min-width: 992px) {
@@ -1978,7 +1972,7 @@ pre code {
   margin: 15px 0;
 }
 .posts-expand .post-header {
-  font-size: 1.125em;
+  font-size: 1em;
   margin-bottom: 60px;
   text-align: center;
 }
@@ -2721,7 +2715,7 @@ hr {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #121cfc;
+  background: #349683;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
