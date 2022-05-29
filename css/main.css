@@ -222,7 +222,7 @@ body {
   box-sizing: border-box;
   color: var(--text-color);
   font-family: Noto Serif SC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
-  font-size: 0.9em;
+  font-size: 0.95em;
   line-height: 2;
   min-height: 100%;
   position: relative;
@@ -2715,7 +2715,7 @@ hr {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #ff1d7a;
+  background: #cb5730;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
